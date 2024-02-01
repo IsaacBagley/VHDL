@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Sep 14 20:00:23 2022
+# Process ID: 11232
+# Current directory: S:/School Work/Fall 2022/Lab_2/Lab_2.srcs/utils_1/imports/synth_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18860 S:\School Work\Fall 2022\Lab_2\Lab_2.srcs\utils_1\imports\synth_1\full_adder4.dcp
+# Log file: S:/School Work/Fall 2022/Lab_2/Lab_2.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file: S:/School Work/Fall 2022/Lab_2/Lab_2.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On: LAPTOP-BD3A4Q0G, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17019 MB
+#-----------------------------------------------------------
+start_gui
+open_checkpoint {S:/School Work/Fall 2022/Lab_2/Lab_2.srcs/utils_1/imports/synth_1/full_adder4.dcp}
